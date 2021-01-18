@@ -231,3 +231,7 @@ export default useAsyncTask;
 </details>
 
 See also: [useAsync](https://usehooks.com/useAsync/).
+
+## useFetch
+
+This Hook is usefull to make fetch request using `AbortController`
